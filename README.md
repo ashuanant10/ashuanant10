@@ -37,7 +37,8 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-  - **Sikkim Canvas**: A full-stack web application for discovering, adding, editing, and reviewing campgrounds.
-  - **Dynamic Canvas**: A MERN stack portfolio web-builder platform, increasing client engagement by 40%.
-  - **Scholar's Slate**: A task management app designed to streamline productivity with a clean UI.
+  - **[Sikkim Canvas](https://link-to-project.com)**: A full-stack web application for discovering, adding, editing, and reviewing campgrounds.
+  - **[Dynamic Canvas](https://link-to-project.com)**: A MERN stack portfolio web-builder platform, increasing client engagement by 40%.
+  - **[Scholar's Slate](https://link-to-project.com)**: A task management app designed to streamline productivity with a clean UI.
 </p>
+
