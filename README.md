@@ -34,11 +34,3 @@
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">Projects:</h3>
-<p align="left">
-  - **[Sikkim Canvas](https://link-to-project.com)**: A full-stack web application for discovering, adding, editing, and reviewing campgrounds.
-  - **[Dynamic Canvas](https://link-to-project.com)**: A MERN stack portfolio web-builder platform, increasing client engagement by 40%.
-  - **[Scholar's Slate](https://link-to-project.com)**: A task management app designed to streamline productivity with a clean UI.
-</p>
-
