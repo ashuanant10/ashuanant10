@@ -8,7 +8,7 @@
 - 🖥️ My expertise lies in **Frontend Development** using **ReactJS**, **NextJS**, **MUI**, **Tailwind CSS**, and **TypeScript**, and **Backend Development** using **Node.js**, **PHP**, and **.NET**.
 - 🌱 I’m actively expanding my skills and seeking opportunities to contribute to innovative web development projects.
 - 📫 How to reach me: **anantashutosh10@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1yOIRoq4_9eksrniKoOCjPI1epcUOG4Vj/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1wL1UKF7yQ5S7Ok2CjXIkeoge9BDzj6Qr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
